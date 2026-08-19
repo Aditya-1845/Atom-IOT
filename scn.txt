@@ -1,4 +1,0 @@
-public class userinput{
-public static void main(string[] args){
-scanner Scn =new scanner(system.in);
-int num =scn.nextInt(10);}}
